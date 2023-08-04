@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1690784747 "/Users/bobbyiii21/Dropbox/First LateX/STEM Bus Lab planning.tex" "STEM Bus Lab planning.pdf" "STEM Bus Lab planning" 1690784748 0
-  "/Users/bobbyiii21/Dropbox/First LateX/STEM Bus Lab planning.tex" 1690784746 6702 4e6e7042512d8f542004d3567a4d7253 ""
+["pdflatex"] 1691160110 "/Users/bobbyiii21/Dropbox/First LateX/STEM Bus Lab planning.tex" "STEM Bus Lab planning.pdf" "STEM Bus Lab planning" 1691160111 0
+  "/Users/bobbyiii21/Dropbox/First LateX/STEM Bus Lab planning.tex" 1691160109 6871 b06404b5cea6ad8e9ad27737a60ce1aa ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/helvetic/phvb7t.tfm" 1136768653 2240 eb56c13537f4d8a0bd3fafc25572b1bd ""
@@ -17,6 +17,7 @@
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1136768653 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1136768653 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1136768653 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb" 1136849748 35941 f27169cc74234d5bd5e4cca5abafaabb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb" 1136849748 44648 23115b2a545ebfe2c526c3ca99db8b95 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/vf/adobe/helvetic/phvb7t.vf" 1136768653 1372 1c26b449eb4a1a0bcf6ac7cfe376d450 ""
@@ -67,9 +68,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1688885535 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1688885462 7883458 563835f8fca5cb3577c597bc71653d03 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "STEM Bus Lab planning.aux" 1690784748 2117 0a7e65c91523439806fedc8a9e803794 "pdflatex"
-  "STEM Bus Lab planning.out" 1690784748 1521 3530bfcc1600e0c3b956a67dd2e306af "pdflatex"
-  "STEM Bus Lab planning.tex" 1690784746 6702 4e6e7042512d8f542004d3567a4d7253 ""
+  "STEM Bus Lab planning.aux" 1691160111 2117 0a7e65c91523439806fedc8a9e803794 "pdflatex"
+  "STEM Bus Lab planning.out" 1691160111 1521 3530bfcc1600e0c3b956a67dd2e306af "pdflatex"
+  "STEM Bus Lab planning.tex" 1691160109 6871 b06404b5cea6ad8e9ad27737a60ce1aa ""
   (generated)
   "STEM Bus Lab planning.aux"
   "STEM Bus Lab planning.log"

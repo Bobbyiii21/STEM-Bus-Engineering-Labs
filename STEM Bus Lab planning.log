@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  31 JUL 2023 02:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.7.9)  4 AUG 2023 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -204,8 +204,13 @@ LaTeX Font Info:    Trying to load font information for TS1+phv on input line 13
 File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
 ) [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}] [2] [3]
-Overfull \hbox (6.08278pt too wide) in paragraph at lines 72--72
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 46.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 46.
+ [2] [3]
+Overfull \hbox (6.08278pt too wide) in paragraph at lines 73--73
 \OT1/phv/b/n/14.4 Demon-strate a Greater Con-cept: New-ton's First Law 
  []
 
@@ -214,18 +219,18 @@ Package rerunfilecheck Info: File `"STEM Bus Lab planning".out' has not changed.
 (rerunfilecheck)             Checksum: 3530BFCC1600E0C3B956A67DD2E306AF;1521.
  ) 
 Here is how much of TeX's memory you used:
- 8008 strings out of 476025
- 127552 string characters out of 5790018
+ 8010 strings out of 476025
+ 127580 string characters out of 5790018
  1858388 words of memory out of 5000000
- 28345 multiletter control sequences out of 15000+600000
+ 28347 multiletter control sequences out of 15000+600000
  526121 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,6n,76p,306b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on "STEM Bus Lab planning.pdf" (6 pages, 30683 bytes).
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on "STEM Bus Lab planning.pdf" (6 pages, 39114 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 115 compressed objects within 2 object streams
+ 134 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
  40 named destinations out of 1000 (max. 500000)
  105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
